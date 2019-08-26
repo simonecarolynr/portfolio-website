@@ -33,6 +33,17 @@ body {
 	line-height: 1;
 }
 
+nav  {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	font-size: 1.5rem;
+}
+
+nav a {
+	text-decoration: none;
+}
+
 ol, ul {
 	list-style: none;
 }
